@@ -13,7 +13,7 @@
             - Private Tab
 */
 
-// Set
+// Setشيسشيسشيسشيسسشيشيسشيسشيسشيسي
 window.localStorage.setItem("color", "#F00");
 window.localStorage.fontWeight = "bold";
 window.localStorage["fontSize"] = "20px";
