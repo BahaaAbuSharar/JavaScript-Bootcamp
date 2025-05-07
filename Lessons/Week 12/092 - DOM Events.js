@@ -4,7 +4,7 @@
         - Use Events On JS
             --- onclick
             --- oncontextmenu
-            --- onmouseenter
+            --- onmouseenterئؤئءؤؤؤء
             --- onmouseleave
 
             --- onload
@@ -18,7 +18,11 @@
 
 let myBtn = document.getElementById("btn");
 
-myBtn.onmouseleave = function () {
+myBtn.onmouseleave = function () {ءئؤؤئءؤئءؤئءؤئءئءؤءؤئءؤ
+                                  يباايبلا
+                                  شسبيبسيلسبال
+                                  ِْؤسٍئريير
+                                  خ
     console.log("Clicked");
 };
 
