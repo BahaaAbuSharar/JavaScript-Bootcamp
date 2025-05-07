@@ -3,7 +3,7 @@
 ### JavaScript Bootcamp Course from [Elzero Web School](https://elzero.org/)
 ### Special thanks goes to [Osama Elzero](https://www.facebook.com/OsElzero)
 
----
+--
 
 ### Useful Resources
 
